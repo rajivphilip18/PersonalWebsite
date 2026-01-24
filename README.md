@@ -7,7 +7,7 @@ Yingyi Kong
 [CS5610 Web Development - Northeastern University](https://northeastern.instructure.com/courses/245751)
 
 ## Project Link
-[Personal Homepage](https://yingyikong.github.io/personal-website/)
+[Personal Homepage](https://yingyik.github.io/PersonalWebsite/)
 
 ## Project Objective
 This is a personal homepage project built with vanilla HTML5, CSS3, and ES6+ JavaScript. The website showcases my projects, background, and contact information. It features a responsive design that works across different devices and includes dynamic project pages generated using JavaScript modules.
@@ -19,7 +19,14 @@ This is a personal homepage project built with vanilla HTML5, CSS3, and ES6+ Jav
 - **Creative Component**: Interactive footer with large brand letters (Y.K) and hover effects on project images
 
 ## Screenshot
-[Screenshot placeholder - Add your screenshot here]
+
+(images/Screenshot1.png)
+
+(images/Screenshot2.png)
+
+(images/Screenshot3.png)
+
+(images/Screenshot4.png)
 
 ## Instructions to Build
 
