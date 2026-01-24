@@ -20,13 +20,10 @@ This is a personal homepage project built with vanilla HTML5, CSS3, and ES6+ Jav
 
 ## Screenshot
 
-(images/Screenshot1.png)
-
-(images/Screenshot2.png)
-
-(images/Screenshot3.png)
-
-(images/Screenshot4.png)
+![Homepage Screenshot](images/Screenshot1.png)
+![Homepage Screenshot2](images/Screenshot2.png)
+![About Page Screenshot](images/Screenshot3.png)
+![Footer Screenshot](images/Screenshot4.png)
 
 ## Instructions to Build
 
