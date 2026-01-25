@@ -205,6 +205,7 @@ body.page-about {
   min-height: 0;
   position: relative;
   color: var(--footer-text);
+  z-index: 10;
 }
 
 .footer-left {
@@ -247,6 +248,7 @@ body.page-about {
   margin-top: auto;
   width: 100%;
   position: relative;
+  pointer-events: none;
 }
 
 .brand-letter {
@@ -265,10 +267,13 @@ body.page-about {
   transform: translateX(-50%);
 }
 
-.footer-email a,
 .footer-linkedin a {
   text-decoration: none;
   color: inherit;
+  position: relative;
+  z-index: 11;
+  cursor: pointer;
+  display: inline-block;
 }
 
 .project-header {
