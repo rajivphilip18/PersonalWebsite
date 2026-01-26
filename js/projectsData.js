@@ -3,7 +3,7 @@ export const projectsData = {
     name: 'FoodWise AI',
     author: 'YINGYI KONG',
     heading2: 'Intelligent Nutrition Assistant',
-    time: '2024',
+    time: '2025',
     whyBuild:
       'Navigating dietary needs can be complex. I architected this multi-agent system to make nutrition simple. By orchestrating specialized agents for semantic search and nutritional analysis, FoodWise delivers personalized meal plans —turning raw data into a healthy lifestyle.',
     githubLink: 'https://github.com/YingyiK/foodwise-ai',
@@ -24,7 +24,7 @@ export const projectsData = {
     name: 'SmartBill',
     author: 'YINGYI KONG',
     heading2: 'Split Expenses Like Magic',
-    time: '2024',
+    time: '2025',
     whyBuild:
       'Sharing costs shouldn\'t cost you time. SmartBill leverages OCR and Speech-to-Text technology to digitize receipts instantly. I designed this app to analyze unstructured data and automate the math, making group payments effortless.',
     githubLink: 'https://github.com/YingyiK/smartbill',
